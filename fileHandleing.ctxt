@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=fileHandleing
+comment1.params=
+comment1.target=void\ ReadFile()
+comment2.params=FileUserID\ FilePassword\ Name
+comment2.target=void\ setArrayFields(java.lang.String[],\ java.lang.String[],\ java.lang.String[])
+comment3.params=
+comment3.target=java.lang.String[]\ getArrUserID()
+comment4.params=
+comment4.target=java.lang.String[]\ getArrPassword()
+comment5.params=
+comment5.target=java.lang.String[]\ getArrName()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
